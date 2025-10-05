@@ -1,0 +1,85 @@
+/* ------- ALL PAGES ------- */
+
+/* GENERAL */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HEADER CONTENT */
+
+header {
+    text-align: center;
+    background-color: lightskyblue;
+    display: inline-block;
+    width: 100%;
+}
+
+/* NAVIGATION */
+
+nav {
+    display: inline-block;
+    width: 100%;
+    background-color: gray;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+nav li {
+    list-style-type: none;
+    background-color: black;
+    padding: 10px;
+    border: 2px solid white;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+/* MAIN BODY */
+
+main {
+    background-color: lightblue;
+    display: inline-block;
+    width: 100%;
+    
+}
+
+.main-content {
+    margin: 20px;
+}
+
+/* FOOTER CONTENT */
+
+footer {
+    background-color: lightskyblue;
+    display: inline-block;
+    width: 100%;
+}
+
+.footer-content {
+    margin: 20px;
+}
+
+/* ------- HOME PAGE ------- */
+
+#home-page-img {
+    width: 30%;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    margin: 0px 0px 20px 20px;
+    border: 1px solid black;
+    border-radius: 10%;
+    
+    img {
+        width: 80%;
+        display: inline-block;
+        margin: 20px;
+    }
+}
