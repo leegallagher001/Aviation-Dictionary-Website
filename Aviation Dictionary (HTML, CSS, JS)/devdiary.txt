@@ -8,4 +8,15 @@ Things to work on:
 
 - Start work on other pages
 
+
 - Add an API font
+
+07/10/2025
+
+Fixed the issue with the .topnav section by removing the ul structure, allowing me to centre the <a> elements properly when the width of the screen is 600px or less (for responsive web design purposes). Also started work on the other pages, particularly the light aviation one. Also added an API font.
+
+Things to work on:
+
+- Continue work on pages
+
+- Start adding some JavaScript (gallery would be a good place to start with this)
