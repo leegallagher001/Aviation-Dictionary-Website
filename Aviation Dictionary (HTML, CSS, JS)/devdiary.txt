@@ -1,0 +1,11 @@
+06/10/2025
+
+Second day working on Aviation Dictionary website. Created the rest of the pages as well as created some of the responsive design, particularly with regards to navigation menu. 
+
+Things to work on:
+
+- Change navbar from a list to something else, as using a list is causing problems with the responsive design (the bullet point is removed but the empty space where it would have been is still getting in the way).
+
+- Start work on other pages
+
+- Add an API font
