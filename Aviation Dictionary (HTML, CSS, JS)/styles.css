@@ -94,7 +94,28 @@ footer {
     }
 }
 
+/* ------- PAGE/CONTENT IMAGES ------- */
 
+.content-img {
+    width: 30%;
+    display: inline-block;
+    float: right;
+    text-align: center;
+    margin: 0px 0px 20px 20px;
+    border: 1px solid black;
+    border-radius: 10%;
+    
+    img {
+        width: 80%;
+        display: inline-block;
+        margin: 20px;
+    }
+
+    p {
+        width: 80%;
+        display: inline-block;
+    }
+}
 
 /* RESPONSIVES */
 
